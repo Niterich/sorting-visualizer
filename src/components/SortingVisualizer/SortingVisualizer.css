@@ -1,0 +1,27 @@
+.array-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.array-bar {
+    width: 2px;
+    background-color: #1554FF;
+    display: inline-block;
+    margin: 0 0.04rem;
+}
+.nav-container {
+    display: flex;
+    justify-content: center;
+    padding: 0.6rem 0;
+    background-color: #0140EC;
+    margin-bottom: 1rem;
+}
+.button {
+    color: #FFFFFF;
+    background-color: #1554FF;
+    margin: 0.5rem 1rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+}
